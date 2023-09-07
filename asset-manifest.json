@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yesh-adithya/static/css/main.bf538fe7.css",
+    "main.js": "/yesh-adithya/static/js/main.5bf21a58.js",
+    "index.html": "/yesh-adithya/index.html",
+    "main.bf538fe7.css.map": "/yesh-adithya/static/css/main.bf538fe7.css.map",
+    "main.5bf21a58.js.map": "/yesh-adithya/static/js/main.5bf21a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5bf21a58.js"
+  ]
+}
