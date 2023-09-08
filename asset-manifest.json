@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yesh-adithya/static/css/main.bf538fe7.css",
-    "main.js": "/yesh-adithya/static/js/main.8cc269bc.js",
+    "main.js": "/yesh-adithya/static/js/main.f955af44.js",
     "index.html": "/yesh-adithya/index.html",
     "main.bf538fe7.css.map": "/yesh-adithya/static/css/main.bf538fe7.css.map",
-    "main.8cc269bc.js.map": "/yesh-adithya/static/js/main.8cc269bc.js.map"
+    "main.f955af44.js.map": "/yesh-adithya/static/js/main.f955af44.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.8cc269bc.js"
+    "static/js/main.f955af44.js"
   ]
 }
