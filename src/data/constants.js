@@ -275,10 +275,10 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHI2JVf2QgSlQ/company-logo_100_100/0/1584959268218?e=1701907200&v=beta&t=Bd7y1M9mCPlt6giab69GYMSC2iFD1La1D6rvMIK4Xr8",
+    img: "https://i1.rgstatic.net/ii/institution.image/AS%3A267466305933312%401440780344770_l",
     school: "Faculty of Applied Sciences, Wayamba University of Sri Lanka",
     date: "Oct 2021 - Sep 2025",
-    grade: "Current GPA 3.15",
+    grade: "Second Class (Lower Division) (GPA 3.24)",
     desc: "I am a committed and motivated undergraduate student studying a Bachelor of Sciences with a Joint Major in Mathematical Modelling & Statistics and Computing & Information Systems at the prestigious Faculty of Applied Sciences at Wayamba University of Sri Lanka.",
     degree:
       "Bachelor of Sciences (Joint Major) - Computing & Information Systems and Mathematical Modelling & Statistics",
